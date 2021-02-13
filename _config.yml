@@ -1,4 +1,4 @@
 name: Qing Wen
 markdown: krandown
-
+permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
